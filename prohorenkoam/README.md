@@ -12,4 +12,4 @@ email: prohorenko5@yandex.ru
 ## Ссылки на репозитории
 
 1. Ссылка на репозиторий из "Задания 2": https://github.com/AprohONE/Homework
-2. Ссылка на репозиторий из "Задания 3": https://github.com/AprohONE/SecLab
+2. Ссылка на репозиторий из "Задания 3": https://github.com/AprohONE/SecondLab
