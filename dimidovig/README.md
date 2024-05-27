@@ -1,2 +1,8 @@
-# "Технология программирования" 2024 г.
-Репозиторий для домашнего задания по курсу "Технология программирования" 2024 г.
+FIO: Димидов Илья Георгиевич
+
+GROUP: IU3-42
+
+email: dimidov496@gmail.com
+
+https://github.com/PosTour/ToP.git
+https://github.com/PosTour/lab-2.git
